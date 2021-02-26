@@ -1,9 +1,11 @@
 .register {
     display: none;
     color: #fff;
+    background-color: #000;
 
-    button:hover {
-        background-color: #000;
-        color: #fff;
+    .group-buttons button {
+        &:hover {
+            color: #fff;
+        }
     }
 }
