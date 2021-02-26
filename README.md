@@ -12,12 +12,14 @@ Acesse o projeto: https://form-he4rt.vercel.app/
 - Frontend, com o objetivo de criar dois formulários em que a transição entre eles seja feita de forma suave, criando um efeito como se fosse o mesmo formulário.
 
 
-O que falta ser implementado (FrontEnd):
+## A ser implementado:
+
+### (FrontEnd):
 
 - Melhorar efeito e "página" após logar 
 - Adicionar "página" e efeitos de transição para o botão registrar.
 
-O que falta ser implementado (Backend):
+### (Backend):
 
 - Validar dados informados nos campos de input
 - Cadastrar usuário no banco de dados
