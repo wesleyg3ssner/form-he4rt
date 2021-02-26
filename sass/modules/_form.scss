@@ -6,7 +6,9 @@ form {
     
         input {
             padding: 10px;
-            width: 280px;
+            width: 100%;
+            max-width: 280px;
+
             margin: 10px 0;
     
             &:focus {
@@ -23,7 +25,8 @@ form {
     
         button{
             padding: 8px;
-            width: 100px;
+            width: 100%;
+            max-width: 100px;
         
             border: none;
             border-radius: 50px;
