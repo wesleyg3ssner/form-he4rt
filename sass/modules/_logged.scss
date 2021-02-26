@@ -1,0 +1,17 @@
+#pageLogged {
+    width: 0px;
+    height: 0px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: black;
+    opacity: 0;
+
+    transition: all 1s;
+
+    h1{
+        color: #fff;
+    }
+}

@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+
+    h1 {
+        font-size: 1.6rem;
+        margin-top: 5px;
+    }
+
+    img {
+        width: 100%;
+        max-width: 150px;
+    }
+}
